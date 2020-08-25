@@ -1,0 +1,2 @@
+# CHE 06681 Coursework
+Jupyter notebooks consisting of homework and project assignments from my time taking John Kitchin's course **Data Science and Machine Learning in Chemical Engineering** from Carnegie Mellon University during the spring 2020 semester. 
